@@ -23,9 +23,9 @@ _**Pictures are property of Git and Github**_
 
 ### Creating A Github Account:
 1. Go on [**github.com**](https://github.com).
-2. Click **Sign Up** in the top right corner of the window. **=>**
+2. Click **Sign Up** in the top right corner of the window. **v**
 
-<p align="right">
+<p align="center">
   <img src ="images-for-github-tutorial/sign-in-or-sign-up.PNG">
 </p>
 
