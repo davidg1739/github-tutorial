@@ -32,7 +32,7 @@ _**Pictures are property of Git and Github**_
 3. Follow all the steps for step1.
 
 <p align="center">
-  <img src ="images-for-github-tutorial/step1-signup.PNG">
+  <img src ="images-for-github-tutorial/step1-signup.png">
 </p>
 ---
 ## Repository Setup
