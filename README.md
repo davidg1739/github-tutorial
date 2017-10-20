@@ -5,7 +5,7 @@ _by David Gonzalez_
 ---
 ## Git vs. GitHub
 <p align="center">
-  <img / src =https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png>
+  <img src =https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ _**Pictures are property of Git and Github**_
 2. Click **Sign Up** in the top left corner of the window. **=>**
 
 <p align="center">
-  <img / src ="images-for-github-tutorial/sign-in-or-sign-up.png">
+  <img src ="images-for-github-tutorial/sign-in-or-sign-up.PNG">
 </p>
 
 ---
