@@ -29,6 +29,8 @@ _**Pictures are property of Git and Github**_
   <img src ="images-for-github-tutorial/sign-in-or-sign-up.PNG">
 </p>
 
+3. Follow all the steps for step1 ![step1image]("images-for-github-tutorial/step1-signup.PNG")
+
 ---
 ## Repository Setup
 
