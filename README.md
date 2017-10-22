@@ -41,6 +41,12 @@ _**Pictures are property of Git and Github**_
   <img src ="images-for-github-tutorial/step2.PNG">
 </p>
 
+5. Follow alll the directions in step 3, but it is not neccesarry to fill it out because you can just skip it by pressing `skip this step` at the bottom.
+
+<p align="center">
+  <img src ="images-for-github-tutorial/step3.PNG">
+</p>
+
 ---
 ## Repository Setup
 
