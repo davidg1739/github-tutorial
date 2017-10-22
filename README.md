@@ -29,11 +29,18 @@ _**Pictures are property of Git and Github**_
   <img src ="images-for-github-tutorial/sign-in-or-sign-up.PNG">
 </p>
 
-3. Follow all the steps for step1.
+3. Follow all the steps for step 1.
 
 <p align="center">
   <img src ="images-for-github-tutorial/step1-signup.png">
 </p>
+
+4. Follow all thew step for step 2 by checking whichever plan you want and checking the boxes on the bottom as you please.
+
+<p align="center">
+  <img src ="images-for-github-tutorial/step2.PNG">
+</p>
+
 ---
 ## Repository Setup
 
