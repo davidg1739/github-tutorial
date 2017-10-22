@@ -77,6 +77,33 @@ In your git workflow you most likely will type commands such as `git push` or `g
 <p align="center">
   <img src ="images-for-github-tutorial/c9-ssh.PNG">
 
+7. Copy the chunk of text that is private.
+
+8. Go back on github and click the button that is shown below as an image.
+
+<p align="center">
+  <img src ="images-for-github-tutorial/new-ssh-key-github.PNG">
+  
+9. You should now see this on your screen:
+
+<p align="center">
+  <img src ="images-for-github-tutorial/ssh-key-form-github.PNG">
+  
+10. Give the ssh key a relevant title such as cloud9 and paste the key you copied from c9 into the form's Key input box.
+
+11. Click on Add SSH key.
+
+12. Go to your c9 workspace and type the following into the terminal:  
+
+`ssh -T git@github.com`
+
+13. The follwing should then pop up:
+
+```bash
+Hi <your username>! You've successfully authenticated, but GitHub does not provide shell access._
+```
+
+14. You are now done with setting up and creating a ssh key.
 
 ---
 ## Repository Setup
