@@ -58,12 +58,25 @@ In your git workflow you most likely will type commands such as `git push` or `g
 
 
 1. Go on [github.com](https://github.com)
+
 2. Click your profile icon in the top right and click on settings.
+
 3. On the left hand side you should see the following:
+* Click on the **SSH and GPG keys tab**
 
 <p align="center">
   <img src ="images-for-github-tutorial/github-ssh.PNG">
 </p>
+
+4. Then go on [c9.io](https://c9.io) and sign in to your account if you are not signed in already.
+
+5. Click on the gear icon on the top right
+
+6. Click on the SSH Keys tab on the left side of the window as shown in the picture below.
+
+<p align="center">
+  <img src ="images-for-github-tutorial/c9-ssh.PNG">
+
 
 ---
 ## Repository Setup
