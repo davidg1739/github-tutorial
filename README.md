@@ -149,3 +149,21 @@ To test out your chamges to your repository you should always type the following
 
 ---
 ## Rolling Back Changes
+
+### Rolling Back an Edit:
+
+`git checkout -- <filename>`
+
+### Taking Something From The Staging Area:
+
+`git reset HEAD <filename>`
+
+### Undoing A Commit
+
+`git reset --soft HEAD~1`
+
+### Undoing A Push To A Certain Commit:
+
+1. Type in `git log` and you will see your previous commits. These are called shas.
+
+2. Copy the sha you want to revert back to and type `git revert <sha>`
