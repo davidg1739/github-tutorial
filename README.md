@@ -35,7 +35,7 @@ _**Pictures are property of Git and Github**_
   <img src ="images-for-github-tutorial/step1-signup.png">
 </p>
 
-4. Follow all thew step for step 2 by checking whichever plan you want and checking the boxes on the bottom as you please.
+4. Follow all the step for step 2 by checking whichever plan you want and checking the boxes on the bottom as you please.
 
 <p align="center">
   <img src ="images-for-github-tutorial/step2.PNG">
