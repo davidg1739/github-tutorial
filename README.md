@@ -49,7 +49,7 @@ _**Pictures are property of Git and Github**_
 
 ### SSH Keys:
 
-In your git workflow you most likely will type commands such as `git push` or `git push -u origin master`. The commands stated will push the most recent commit in your local repository to your repository on github. If you do not have an ssh key setup you will have to type in your username and password evertime you want to push and or do anything else that involves a remote repository on github.  
+In your git workflow you most likely will type commands such as `git push` or `git push -u origin master`. The commands stated will push the most recent commit in your local repository to your remote repository on github. If you do not have an ssh key setup you will have to type in your username and password everytime you want to push and or do anything else that involves a remote repository on github.  
 
 #### **To Create An _SSH Key_ follow the following steps:**
 **_The following steps are for c9 and github.com only. If you are using your computers bash or terminal click on the video below_**
