@@ -76,6 +76,7 @@ In your git workflow you most likely will type commands such as `git push` or `g
 
 <p align="center">
   <img src ="images-for-github-tutorial/c9-ssh.PNG">
+</p>
 
 7. Copy the chunk of text that is private.
 
@@ -83,11 +84,13 @@ In your git workflow you most likely will type commands such as `git push` or `g
 
 <p align="center">
   <img src ="images-for-github-tutorial/new-ssh-key-github.PNG">
+</p>
   
 9. You should now see this on your screen:
 
 <p align="center">
   <img src ="images-for-github-tutorial/ssh-key-form-github.PNG">
+</p>
   
 10. Give the ssh key a relevant title such as cloud9 and paste the key you copied from c9 into the form's Key input box.
 
@@ -108,12 +111,41 @@ Hi <your username>! You've successfully authenticated, but GitHub does not provi
 ---
 ## Repository Setup
 
+### Creating a Repository and your first git commands:
 
+When creating your first repository, the first command you should type into the terminal is `git init`. You should then create a **README.md** file and type some stuff in it so that people who visit your repository know what its about. After that, type in `git add .` to the bash and or another form of `git add` depending on what you have in your repository and what you want to add to the staging area and commit. Then, type `git commit -m ""`. In the quotes type in a message in the present tense such as:  
+
+**Initialize repository**
+
+### Creating a remote repository and connecting it to your local repository:
+
+* Go on [github.com](https://github.com)
+* Click the plus icon in the top right corner.
+* A dropdown menu should appear. Click on New repository.
+* The following should pop up:
+
+<p align="center">
+  <img src ="images-for-github-tutorial/remote-repository-step1-github.PNG">
+</p>
+
+* Fill out all the information as you please and then click Create repository.
+
+* You will be brought to the next step of creating a remote repository and connecting it to your local repository.
+
+* Make sure that SSH is checked under **Quick setup — if you’ve done this kind of thing before**
+
+* Copy and paste the commands into the bash that are under, **or push an existing repository from the command line** or copy the link that is next to the SSH setting and follow the following sub bulllets:
+  * Type the following into the bash `git remote add origin <link here>`
+  * Then type in: `git push -u origin master`
 
 ---
 ## Workflow & Commands
 
+To test out your chamges to your repository you should always type the following into the command line `git add`, `git status`, `git commit`, and `git push`.  
 
+**`git push`** was referenced in the last section of the tutorial, but the last section did not state what the command does. The command pushes your local changes to your remote repository online.  
+
+**`git status`** tells the user what files are in the staging area and which are not.
 
 ---
 ## Rolling Back Changes
