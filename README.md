@@ -141,7 +141,7 @@ When creating your first repository, the first command you should type into the 
 ---
 ## Workflow & Commands
 
-To test out your chamges to your repository you should always type the following into the command line `git add`, `git status`, `git commit`, and `git push`.  
+To test out your changes to your repository you should always type the following into the command line `git add`, `git status`, `git commit`, and `git push`.  
 
 **`git push`** was referenced in the last section of the tutorial, but the last section did not state what the command does. The command pushes your local changes to your remote repository online.  
 
@@ -154,7 +154,7 @@ To test out your chamges to your repository you should always type the following
 
 `git checkout -- <filename>`
 
-### Taking Something From The Staging Area:
+### Unstaging Something From The Staging Area:
 
 `git reset HEAD <filename>`
 
@@ -164,6 +164,6 @@ To test out your chamges to your repository you should always type the following
 
 ### Undoing A Push To A Certain Commit:
 
-1. Type in `git log` and you will see your previous commits. These are called shas.
+1. Type in `git log` and you will see your previous commits. These are called SHA keys.
 
-2. Copy the sha you want to revert back to and type `git revert <sha>`
+2. Copy the SHA you want to revert back to and type `git revert <sha>`
