@@ -8,9 +8,8 @@ _by David Gonzalez_
   <img src =https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png>
 </p>
 
-<p align="center">
-  <img / src =https://c1.staticflickr.com/6/5622/22160892602_e5474a698d.jpg>
-</p>  
+![alt text]("https://c1.staticflickr.com/6/5622/22160892602_e5474a698d.jpg")
+  
 
 _**Pictures are property of Git and Github**_  
 
