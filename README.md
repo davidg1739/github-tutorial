@@ -4,11 +4,11 @@ _by David Gonzalez_
 
 ---
 ## Git vs. GitHub
-<p align="center">
-  <img src =https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png>
-</p>
 
-![alt text]("https://c1.staticflickr.com/6/5622/22160892602_e5474a698d.jpg")
+  ![]("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png")
+
+
+![]("https://c1.staticflickr.com/6/5622/22160892602_e5474a698d.jpg")
   
 
 _**Pictures are property of Git and Github**_  
