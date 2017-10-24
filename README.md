@@ -14,7 +14,7 @@ _by David Gonzalez_
 
 _**Pictures are property of Git and Github**_  
 
-[**Git**](https://git-scm.com/) was initially released on _April 7, 2005_ by its creator _Linus Torvalds_. It is a service that manages multiple versions of `code`. Any directory with git in it is a repository. Any git repository can be uploaded to github. [**Github**](https://github.com) was initially released on _April 10, 2008_ by its creator _Tom Preston-Werner_. It is a cloud drive where you can repositories live. Git does **not** need Github to work.
+[**Git**](https://git-scm.com/) was initially released on _April 7, 2005_ by its creator _Linus Torvalds_. It is a service that manages multiple versions of `code`. Any directory with git in it is a repository. Any git repository can be uploaded to github. [**Github**](https://github.com) was initially released on _April 10, 2008_ by its creator _Tom Preston-Werner_. It is a cloud drive where repositories live. Git does **not** need Github to work.
 
 
 
@@ -35,13 +35,13 @@ _**Pictures are property of Git and Github**_
   <img src ="images-for-github-tutorial/step1-signup.png">
 </p>
 
-4. Follow all thew step for step 2 by checking whichever plan you want and checking the boxes on the bottom as you please.
+4. Follow all the step for step 2 by checking whichever plan you want and checking the boxes on the bottom as you please.
 
 <p align="center">
   <img src ="images-for-github-tutorial/step2.PNG">
 </p>
 
-5. Follow alll the directions in step 3, but it is not neccesarry to fill it out because you can just skip it by pressing `skip this step` at the bottom.
+5. Follow alll the directions in step 3, but it is not necesarry to fill it out because you can just skip it by pressing `skip this step` at the bottom.
 
 <p align="center">
   <img src ="images-for-github-tutorial/step3.PNG">
@@ -49,7 +49,7 @@ _**Pictures are property of Git and Github**_
 
 ### SSH Keys:
 
-In your git workflow you most likely will type commands such as `git push` or `git push -u origin master`. The commands stated will push the most recent commit in your local repository to your repository on github. If you do not have an ssh key setup you will have to type in your username and password evertime you want to push and or do anything else that involves a remote repository on github.  
+In your git workflow you most likely will type commands such as `git push` or `git push -u origin master`. The commands stated will push the most recent commit in your local repository to your remote repository on github. If you do not have an ssh key setup you will have to type in your username and password everytime you want to push and or do anything else that involves a remote repository on github.  
 
 #### **To Create An _SSH Key_ follow the following steps:**
 **_The following steps are for c9 and github.com only. If you are using your computers bash or terminal click on the video below_**
@@ -141,7 +141,7 @@ When creating your first repository, the first command you should type into the 
 ---
 ## Workflow & Commands
 
-To test out your chamges to your repository you should always type the following into the command line `git add`, `git status`, `git commit`, and `git push`.  
+To test out your changes to your repository you should always type the following into the command line `git add`, `git status`, `git commit`, and `git push`.  
 
 **`git push`** was referenced in the last section of the tutorial, but the last section did not state what the command does. The command pushes your local changes to your remote repository online.  
 
@@ -154,7 +154,7 @@ To test out your chamges to your repository you should always type the following
 
 `git checkout -- <filename>`
 
-### Taking Something From The Staging Area:
+### Unstaging Something From The Staging Area:
 
 `git reset HEAD <filename>`
 
@@ -164,6 +164,6 @@ To test out your chamges to your repository you should always type the following
 
 ### Undoing A Push To A Certain Commit:
 
-1. Type in `git log` and you will see your previous commits. These are called shas.
+1. Type in `git log` and you will see your previous commits. These are called SHA keys.
 
-2. Copy the sha you want to revert back to and type `git revert <sha>`
+2. Copy the SHA you want to revert back to and type `git revert <sha>`
