@@ -5,11 +5,11 @@ _by David Gonzalez_
 ---
 ## Git vs. GitHub
 
-<p allign="center">
+<p align="center">
   <img src="images-for-github-tutorial/Git.png">
 </p>
 
-<p allign="center">
+<p align="center">
   <img src="images-for-github-tutorial/Github.jpg">
 </p>
   
