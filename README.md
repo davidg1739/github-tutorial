@@ -115,10 +115,10 @@ In your git workflow you most likely will type commands such as `git push` or `g
 
 ### Creating a Repository and your first git commands:
 
-When creating your first repository, the first command you should type into the terminal is `git init`. You should then create a **README.md** file and type some stuff in it so that people who visit your repository know what its about. After that, type in `git add .` to the bash and or another form of `git add` depending on what you have in your repository and what you want to add to the staging area and commit. Then, type `git commit -m ""`. In the quotes type in a message in the present tense such as:  
+When creating your first repository, the first command you should type into the terminal, if you do not have a directory to become a repositiory, is `mkdir <insert repository name here`. After that, the next command you type into the bash is `git init`. This comand initializes git in the current directory that you are in. You should then create a **README.md** file by typing `touch README.md` into the terminal and type some stuff in the README file so that people who visit your repository on Github know what its about. After that, type in `git add .` to the bash and or another form of `git add` depending on what you have in your repository and what you want to add to the staging area and commit. To learn more about **git add**, visit [https://www.atlassian.com/git/tutorials/saving-changes](https://www.atlassian.com/git/tutorials/saving-changes). Then, type `git commit -m ""`. In the quotes type in a message in the present tense such as:  
 
-**Initialize repository**
-
+**Initialize repository**  
+This command takes a snapshot of everything you have in the staging area.
 ### Creating a remote repository and connecting it to your local repository:
 
 * Go on [github.com](https://github.com)
