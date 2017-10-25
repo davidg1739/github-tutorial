@@ -27,27 +27,27 @@ _**Pictures are property of Git and Github**_
 1. Go on [**github.com**](https://github.com).
 2. Click **Sign Up** in the top right corner of the window. **v**
 
-<p align="center">
-  <img src ="images-for-github-tutorial/sign-in-or-sign-up.PNG">
-</p>
+    <p align="center">
+      <img src ="images-for-github-tutorial/sign-in-or-sign-up.PNG">
+    </p>
 
 3. Follow all the steps for step 1.
 
-<p align="center">
-  <img src ="images-for-github-tutorial/step1-signup.png">
-</p>
+    <p align="center">
+      <img src ="images-for-github-tutorial/step1-signup.png">
+    </p>
 
 4. Follow all the step for step 2 by checking whichever plan you want and checking the boxes on the bottom as you please.
 
-<p align="center">
-  <img src ="images-for-github-tutorial/step2.PNG">
-</p>
+    <p align="center">
+      <img src ="images-for-github-tutorial/step2.PNG">
+    </p>
 
 5. Follow alll the directions in step 3, but it is not necesarry to fill it out because you can just skip it by pressing `skip this step` at the bottom.
 
-<p align="center">
-  <img src ="images-for-github-tutorial/step3.PNG">
-</p>
+    <p align="center">
+      <img src ="images-for-github-tutorial/step3.PNG">
+    </p>
 
 ### SSH Keys:
 
@@ -66,9 +66,9 @@ In your git workflow you most likely will type commands such as `git push` or `g
 3. On the left hand side you should see the following:
 * Click on the **SSH and GPG keys tab**
 
-<p align="center">
-  <img src ="images-for-github-tutorial/github-ssh.PNG">
-</p>
+    <p align="center">
+        <img src ="images-for-github-tutorial/github-ssh.PNG">
+    </p>
 
 4. Then go on [c9.io](https://c9.io) and sign in to your account if you are not signed in already.
 
@@ -76,23 +76,23 @@ In your git workflow you most likely will type commands such as `git push` or `g
 
 6. Click on the SSH Keys tab on the left side of the window as shown in the picture below.
 
-<p align="center">
-  <img src ="images-for-github-tutorial/c9-ssh.PNG">
-</p>
+    <p align="center">
+      <img src ="images-for-github-tutorial/c9-ssh.PNG">
+    </p>
 
 7. Copy the chunk of text that is private.
 
 8. Go back on github and click the button that is shown below as an image.
 
-<p align="center">
-  <img src ="images-for-github-tutorial/new-ssh-key-github.PNG">
-</p>
+    <p align="center">
+      <img src ="images-for-github-tutorial/new-ssh-key-github.PNG">
+    </p>
   
 9. You should now see this on your screen:
 
-<p align="center">
-  <img src ="images-for-github-tutorial/ssh-key-form-github.PNG">
-</p>
+    <p align="center">
+      <img src ="images-for-github-tutorial/ssh-key-form-github.PNG">
+    </p>
   
 10. Give the ssh key a relevant title such as cloud9 and paste the key you copied from c9 into the form's Key input box.
 
@@ -100,13 +100,13 @@ In your git workflow you most likely will type commands such as `git push` or `g
 
 12. Go to your c9 workspace and type the following into the terminal:  
 
-`ssh -T git@github.com`
+    `ssh -T git@github.com`
 
 13. The follwing should then pop up:
 
-```bash
-Hi <your username>! You've successfully authenticated, but GitHub does not provide shell access._
-```
+    ```bash
+    Hi <your username>! You've successfully authenticated, but GitHub does not provide shell access._
+    ```
 
 14. You are now done with setting up and creating a ssh key.
 
@@ -126,9 +126,9 @@ When creating your first repository, the first command you should type into the 
 * A dropdown menu should appear. Click on New repository.
 * The following should pop up:
 
-<p align="center">
-  <img src ="images-for-github-tutorial/remote-repository-step1-github.PNG">
-</p>
+    <p align="center">
+      <img src ="images-for-github-tutorial/remote-repository-step1-github.PNG">
+    </p>
 
 * Fill out all the information as you please and then click Create repository.
 
