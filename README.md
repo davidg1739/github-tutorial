@@ -6,11 +6,11 @@ _by David Gonzalez_
 ## Git vs. GitHub
 
 <p allign="center">
-  <img src="Git.png">
+  <img src="images-for-github-tutorial/Git.png">
 </p>
 
 <p allign="center">
-  <img src="Github.jpg">
+  <img src="images-for-github-tutorial/Github.jpg">
 </p>
   
 
