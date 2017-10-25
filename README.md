@@ -6,11 +6,11 @@ _by David Gonzalez_
 ## Git vs. GitHub
 
 <p allign="center">
-  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png)
+  <img src="Git.png">
 </p>
 
 <p allign="center">
-![](https://c1.staticflickr.com/6/5622/22160892602_e5474a698d.jpg)
+  <img src="Github.jpg">
 </p>
   
 
